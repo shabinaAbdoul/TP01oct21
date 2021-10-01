@@ -1,0 +1,24 @@
+.line
+{
+    border-top:solid 2px red;
+    margin:10px;
+    
+}
+.lineleft
+{
+    border-top:solid 2px red;
+    width:70%;
+}
+.image img{
+    width:50px;
+    height:50px;
+    border:solid 2px red;
+    color:red;
+    float:left;
+    margin-right:10px;
+}
+button img{
+    width:20px;
+    height:20px;
+   
+}
